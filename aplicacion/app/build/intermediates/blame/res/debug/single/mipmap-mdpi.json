@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/jose/android/aplicacion/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/jose/android/aplicacion/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jose/Descargas/aplicacion/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/jose/Descargas/aplicacion/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jose/android/aplicacion/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/home/jose/android/aplicacion/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jose/Descargas/aplicacion/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/jose/Descargas/aplicacion/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

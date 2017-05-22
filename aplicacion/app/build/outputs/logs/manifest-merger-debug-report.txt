@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:8:22-69
+application
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jose/.android/build-cache/57452ddfdbf0614b5ba434d3c0f893c0a5b441da/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/jose/.android/build-cache/c60b7113460f3a840e16f0616bb4b6757210013f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/jose/.android/build-cache/0a196a1bb1d809a1ca9fe2c9868f2a021ffc75d0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/jose/.android/build-cache/e1c1ecedd6fe14b17e958539d7e8b1e6c0df60d3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/jose/.android/build-cache/a462823e9671041e02fe3a85ae8ea5f805d6bca3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/jose/.android/build-cache/7588cfef66451e01b4d8ae751e22906d845168db/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/jose/.android/build-cache/4bb9cc98e5df1b729c1ad7bf2b6e18594510a8c0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/jose/.android/build-cache/f08ce2dbaf08c2937e5848adcb753eef8586b8e3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/jose/.android/build-cache/02d9882e01e135360bda96cc5bcd32e021c8e51e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/jose/.android/build-cache/998053cea8cfbb1b757af267a7ecfe4886f12d59/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/jose/.android/build-cache/3bf2d5e8522b5692389c7502c8e4273ccdaea8d2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/jose/.android/build-cache/8190435f4794ad3bbd906c01ae389660120302a0/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:15:9-35
+	android:roundIcon
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:14:9-54
+	android:allowBackup
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.example.josec.aplicacion.MainActivity
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:17:9-59
+	android:name
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:17:19-47
+activity#com.example.josec.aplicacion.LoginActivity
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:18:9-23:20
+	android:name
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:18:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/jose/.android/build-cache/57452ddfdbf0614b5ba434d3c0f893c0a5b441da/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/jose/.android/build-cache/c60b7113460f3a840e16f0616bb4b6757210013f/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/jose/.android/build-cache/0a196a1bb1d809a1ca9fe2c9868f2a021ffc75d0/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/jose/.android/build-cache/e1c1ecedd6fe14b17e958539d7e8b1e6c0df60d3/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/jose/.android/build-cache/a462823e9671041e02fe3a85ae8ea5f805d6bca3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/jose/.android/build-cache/359fadf036f60bf368b351261a3d3e12f25c9d92/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/jose/.android/build-cache/7588cfef66451e01b4d8ae751e22906d845168db/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/jose/.android/build-cache/4bb9cc98e5df1b729c1ad7bf2b6e18594510a8c0/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/jose/.android/build-cache/f08ce2dbaf08c2937e5848adcb753eef8586b8e3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/jose/.android/build-cache/02d9882e01e135360bda96cc5bcd32e021c8e51e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/jose/.android/build-cache/998053cea8cfbb1b757af267a7ecfe4886f12d59/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/jose/.android/build-cache/3bf2d5e8522b5692389c7502c8e4273ccdaea8d2/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/jose/.android/build-cache/8190435f4794ad3bbd906c01ae389660120302a0/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/jose/.android/build-cache/c60b7113460f3a840e16f0616bb4b6757210013f/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jose/android/aplicacion/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/jose/.android/build-cache/c60b7113460f3a840e16f0616bb4b6757210013f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/jose/.android/build-cache/0a196a1bb1d809a1ca9fe2c9868f2a021ffc75d0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/jose/.android/build-cache/e1c1ecedd6fe14b17e958539d7e8b1e6c0df60d3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/jose/.android/build-cache/a462823e9671041e02fe3a85ae8ea5f805d6bca3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/jose/.android/build-cache/359fadf036f60bf368b351261a3d3e12f25c9d92/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/jose/.android/build-cache/7588cfef66451e01b4d8ae751e22906d845168db/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/jose/.android/build-cache/4bb9cc98e5df1b729c1ad7bf2b6e18594510a8c0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/jose/.android/build-cache/f08ce2dbaf08c2937e5848adcb753eef8586b8e3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/jose/.android/build-cache/02d9882e01e135360bda96cc5bcd32e021c8e51e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/jose/.android/build-cache/998053cea8cfbb1b757af267a7ecfe4886f12d59/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/jose/.android/build-cache/3bf2d5e8522b5692389c7502c8e4273ccdaea8d2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/jose/.android/build-cache/8190435f4794ad3bbd906c01ae389660120302a0/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/jose/.android/build-cache/c60b7113460f3a840e16f0616bb4b6757210013f/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/jose/.android/build-cache/c60b7113460f3a840e16f0616bb4b6757210013f/output/AndroidManifest.xml:26:9-47

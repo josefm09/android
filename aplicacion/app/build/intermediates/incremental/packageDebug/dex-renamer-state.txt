@@ -1,0 +1,7 @@
+#Fri May 19 18:20:16 MDT 2017
+base.0=/home/jose/Descargas/aplicacion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d39932cea703fb057b4ee274f0e9aa584f2465d8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/jose/Descargas/aplicacion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8c9c4cc47df60785414ba0f2c9c268f0694563d/classes.dex
+base.1=/home/jose/Descargas/aplicacion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8c9c4cc47df60785414ba0f2c9c268f0694563d
+file.0=/home/jose/Descargas/aplicacion/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d39932cea703fb057b4ee274f0e9aa584f2465d8/classes.dex
